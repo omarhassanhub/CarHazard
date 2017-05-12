@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ImgAud\Background.png</Source>
+      <Name>ImgAud\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Background.xnb</Output>
+      <Time>2014-03-18T22:51:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\Car.png</Source>
+      <Name>ImgAud\Car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Car.xnb</Output>
+      <Time>2014-03-19T09:13:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\explosion3.png</Source>
+      <Name>ImgAud\explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\explosion3.xnb</Output>
+      <Time>2014-03-18T22:51:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\Hazard.PNG</Source>
+      <Name>ImgAud\Hazard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Hazard.xnb</Output>
+      <Time>2014-03-19T15:26:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\Road.png</Source>
+      <Name>ImgAud\Road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Road.xnb</Output>
+      <Time>2014-03-19T15:44:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\Road2.png</Source>
+      <Name>ImgAud\Road2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Road2.xnb</Output>
+      <Time>2014-03-20T12:13:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\car2.png</Source>
+      <Name>ImgAud\car2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\car2.xnb</Output>
+      <Time>2014-03-20T11:58:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\heli3.png</Source>
+      <Name>ImgAud\heli3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\heli3.xnb</Output>
+      <Time>2014-03-20T11:37:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\Road3.png</Source>
+      <Name>ImgAud\Road3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Road3.xnb</Output>
+      <Time>2014-03-20T12:16:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\explode.wav</Source>
+      <Name>ImgAud\explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\explode.xnb</Output>
+      <Time>2014-03-18T22:51:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\metal.wav</Source>
+      <Name>ImgAud\metal</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\metal.xnb</Output>
+      <Time>2014-03-18T22:51:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\Roadbg.mp3</Source>
+      <Name>ImgAud\Roadbg</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Roadbg.xnb</Output>
+      <Extra>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\Roadbg.wma</Extra>
+      <Time>2014-03-18T22:51:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\theme.mp3</Source>
+      <Name>ImgAud\theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\theme.xnb</Output>
+      <Extra>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\theme.wma</Extra>
+      <Time>2014-03-18T22:51:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ImgAud\MyFont.spritefont</Source>
+      <Name>ImgAud\MyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\ImgAud\MyFont.xnb</Output>
+      <Time>2014-03-18T22:55:10+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazardContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazardContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ku\Documents\Brendar - XPS\Projects\openGL + C#\CarvHazard\CarvHazard\CarvHazard\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-25T19:14:52.7356046+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
